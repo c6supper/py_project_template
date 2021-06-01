@@ -127,3 +127,11 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Macos
+*.DS_Store
+
+# Visual studio code
+.idea
+.settings
+idea/*
